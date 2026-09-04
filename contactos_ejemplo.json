@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "telefono": "5512345678",
+    "fecha_nacimiento": "1990-05-15",
+    "correo": "juan@empresa.com",
+    "area": "Ventas"
+  },
+  {
+    "id": 2,
+    "nombre": "María López",
+    "telefono": "5523456789",
+    "fecha_nacimiento": "1988-11-02",
+    "correo": "maria.lopez@empresa.com",
+    "area": "Tecnología"
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos Ramírez",
+    "telefono": "5534567890",
+    "fecha_nacimiento": "1995-07-23",
+    "correo": "carlos.ramirez@empresa.com",
+    "area": "Finanzas"
+  },
+  {
+    "id": 4,
+    "nombre": "Ana Torres",
+    "telefono": "5545678901",
+    "fecha_nacimiento": "1992-01-30",
+    "correo": "ana.torres@empresa.com",
+    "area": "Recursos Humanos"
+  },
+  {
+    "id": 5,
+    "nombre": "Luis Fernández",
+    "telefono": "5556789012",
+    "fecha_nacimiento": "1985-09-12",
+    "correo": "luis.fernandez@empresa.com",
+    "area": "Operaciones"
+  }
+]

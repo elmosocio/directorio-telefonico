@@ -1,0 +1,6 @@
+id,nombre,telefono,fecha_nacimiento,correo,area
+1,Juan Pérez,5512345678,1990-05-15,juan@empresa.com,Ventas
+2,María López,5523456789,1988-11-02,maria.lopez@empresa.com,Tecnología
+3,Carlos Ramírez,5534567890,1995-07-23,carlos.ramirez@empresa.com,Finanzas
+4,Ana Torres,5545678901,1992-01-30,ana.torres@empresa.com,Recursos Humanos
+5,Luis Fernández,5556789012,1985-09-12,luis.fernandez@empresa.com,Operaciones
